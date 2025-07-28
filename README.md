@@ -38,4 +38,15 @@ While university helped sharpen my technical edge, I often found myself fascinat
  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
  <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
 
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=goShell3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=goShell3&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goShell3&layout=compact&theme=tokyonight" alt="Top Languages" height="130"/>
+</p>
+
 
