@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Dandy Herko </h1>
 
 <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-I began my coding journey as a self-taught programmer with an unquenchable curiosity to explore the vast world of technology. My passion for learning deepened as I entered university, where I honed my skills, absorbed theory, and developed a strong foundation in coding and data structure. However, my true calling emerged as I navigated through these experiences—a drive to specialize as a full backend developer with a focus on security and networking.
+I began my coding journey as a programmer with an unquenchable curiosity to explore the vast world of technology. My passion for learning deepened as I entered university, where I honed my skills, absorbed theory, and developed a strong foundation in coding and data structure. However, my true calling emerged as I navigated through these experiences—a drive to specialize as a full backend developer with a focus on security and networking.
 
 While university helped sharpen my technical edge, I often found myself fascinated by the complexities of secure data transmission, server-side architectures, and the protective layers that keep information safe.
 -->
