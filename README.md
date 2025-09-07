@@ -101,12 +101,3 @@ dandy@github:~$ echo "Let's connect!"
 > LinkedIn: https://www.linkedin.com/in/dandyherko
 > GitHub:   https://github.com/goShell3
 ```
-
-```
-
-
-This version is **100% terminal-styled** with `whoami`, `cat`, `ls`, `nano`, `echo` commands to tell your story, list tools, and even display goals.  
-The GitHub cards stay in because they give good visual impact, while the rest feels like CLI output.  
-
-👉 Do you want me to also make a **“fun ASCII banner”** (like `neofetch` output with your name) at the very top for extra hacker/terminal vibes?
-```
